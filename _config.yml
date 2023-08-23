@@ -18,6 +18,6 @@ sass:
 
 nav:
   - name: 'About'
-    link: ''
+    link: '/'
   - name: 'Publications'
     link: 'publications'
