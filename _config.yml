@@ -1,7 +1,10 @@
 title: Rémi Lebret
-url: 'www.lebret.ch'
+url: 'https://lebret.ch'
 baseurl: ''
 remote_theme: ankitsultana/researcher@gem
+
+favicon: yes
+favicon_location: './icon.png'
 
 markdown: kramdown
 ins_logo: './logo-epfl.png'
