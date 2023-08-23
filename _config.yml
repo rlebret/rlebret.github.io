@@ -20,4 +20,4 @@ nav:
   - name: 'About'
     link: ''
   - name: 'Publications'
-    link: '/publications/'
+    link: 'publications'
