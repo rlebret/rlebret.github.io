@@ -28,7 +28,7 @@ Checkout [Google Scholar](https://scholar.google.com/citations?user=VOAWFhYAAAAJ
 ### 2019
 
 - Mohammadshahi A., **Lebret R.**, Aberer K. [Aligning multilingual word embeddings for cross-modal retrieval task](https://aclanthology.org/D19-6402/). _Proceedings of the Beyond Vision and LANguage: inTEgrating Real-world kNowledge (LANTERN'19)_. Hong Kong, China. November 2019.
-- Liu F., **Lebret R.**, Aberer K. [Visually Grounded Cross-Lingual Transfer Learning](http://fangyuliu.me/media/pdfs/sivl_naacl19.pdf). _Workshop on Shortcomings in Vision and Language at NAACL'19 (SiVL'19)_. Minneapolis, Minnesota. June 2019.
+- Liu F., **Lebret R.**, Aberer K. [Visually Grounded Cross-Lingual Transfer Learning](https://fangyuliu.me/media/pdfs/sivl_naacl19.pdf). _Workshop on Shortcomings in Vision and Language at NAACL'19 (SiVL'19)_. Minneapolis, Minnesota. June 2019.
 
 ### 2018
 
