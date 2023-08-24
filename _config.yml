@@ -11,9 +11,9 @@ ins_logo: './logo-epfl.png'
 
 tracking_id: G-46DPYKZH1C
 
-footer: no
-footer_url: 'https://github.com/ankitsultana'
-footer_text: 'Page design by Ankit Sultana'
+footer: yes
+footer_url: 'https://people.epfl.ch/remi.lebret'
+footer_text: 'Contact details'
 
 sass:
   style: compressed
