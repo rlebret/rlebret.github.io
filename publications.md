@@ -9,7 +9,7 @@ Checkout [Google Scholar](https://scholar.google.com/citations?user=VOAWFhYAAAAJ
 - Foroutan N., Romanou A., Ansaripour M. Eisenschlos J. M., Aberer K., **Lebret R.**, [WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts](https://aclanthology.org/2025.findings-acl.1280/). In _Findings of the Association for Computational Linguistics: ACL 2025_. Vienna, Austria. July 2025.
 - Almerge N., Santelmo M., Gül I., Asadi Sarijalou A., **Lebret R.**, Laugier L., Aberer K., [SAGESSE: A System for Argument Generation, Extraction and Structuring of Social Exchanges](https://dl.acm.org/doi/pdf/10.1145/3701551.3704122), In _Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining (WSDM '25)_. Hannover, Germany. March 2025.
 
-### 2024
+### 2024
 
 - Gül I., **Lebret R.**, Aberer K., [Stance detection on social media with fine-tuned large language models](https://arxiv.org/pdf/2404.12171). In _arXiv preprint arXiv:2404.12171_. April 2024.
 
