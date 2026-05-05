@@ -4,12 +4,13 @@ layout: default
 
 <img class="profile-picture" src="portrait.jpg">
 
-I am a research scientist at [EPFL](https://www.epfl.ch) in the [Distributed Information Systems Laboratory](https://www.epfl.ch/labs/lsir/). Before that, I did my PhD working on deep learning models for natural language processing with [Ronan Collobert](https://ronan.collobert.com) at the [Idiap Research Institute](https://www.idiap.ch/).
+I am an AI expert at [Huawei Zurich Research Center](https://www.huawei.com/ch-en/). Before that I was a research scientist at [EPFL](https://www.epfl.ch) in the [Distributed Information Systems Laboratory](https://www.epfl.ch/labs/lsir/).
 
 > The real hero of programming is the one who writes negative code.
 
 ## Selected Publications
 
+- Foroutan N., Romanou A., Ansaripour M. Eisenschlos J. M., Aberer K., **Lebret R.**, [WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts](https://aclanthology.org/2025.findings-acl.1280/). In _ACL'25_.
 - Karoui Y., **Lebret R.**, Foroutan N., Aberer K. [Stop Pre-Training: Adapt Visual-Language Models to Unseen Languages](https://github.com/Yasminekaroui/CliCoTea). In _ACL'23_.
 - Foroutan N., Banaei M., **Lebret R.**, Bosselut A., Aberer K. [Discovering Language-neutral Sub-Networks in Multilingual Language Models](https://github.com/negar-foroutan/multiLMs-lang-neutral-subnets). In _EMNLP'22_.
 - Liu F., **Lebret R.**, Orel D., Sordet P., Aberer K. [Upgrading the Newsroom: An Automated Image Selection System for News Articles](https://arxiv.org/abs/2004.11449). In _ACM Transactions on Multimedia Computing, Communications, and Applications (Vol. 16)_.

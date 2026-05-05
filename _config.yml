@@ -7,7 +7,6 @@ favicon: yes
 favicon_location: './icon.png'
 
 markdown: kramdown
-ins_logo: './logo-epfl.png'
 
 tracking_id: G-46DPYKZH1C
 
